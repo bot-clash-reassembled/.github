@@ -1,5 +1,11 @@
 Hi there 👋
 
+## TL;DR
+
+Just check the [last section](#what-you-can-do).
+
+## Overview
+
 Bot Clash is a "lifelong project" - I tried to implement the idea of constructing & programming robots to compete with each other several times already:
 - **2010**: first Bot Clash title, end-to-end single player game with elements of construction & programming, some story and Laser Squad style visuals - too much to chew, low quality, so got nowhere
 - **2011**: Bot Clash Online was a try to refocus initial Bot Clash on multiplayer - total wreck again
@@ -16,6 +22,8 @@ Overall Bot Clash as I see it now stands on 4 pillars:
 - **Bot programming**: programming challenge of building the best possible algorithm of bot's behavior in combat
 - **Competition visuals**: up to AAA quality of bot battles appearance 
 - **Multiplayer**: sophisticated global gamification of competition between bot creators
+
+## Ideas for next steps
 
 I won't call the following "a roadmap" but rather a bag of ideas on futher development of BCR in area of each pillar:
 - **Bot construction**:
@@ -35,7 +43,9 @@ I won't call the following "a roadmap" but rather a bag of ideas on futher devel
   - Overall player rank beyond individual leagues
   - Leagues tiers perhaps linked to part / technology tiers available to participants of each tier
 
+## What you can do
+
 I look for individuals who'd be interested to join me on BCR journey. Here's how you can help:
-- Just check it out on my hosting and provide your feedback - especially if you enjoyed it (haters gonna hate!)
+- Just check it out on [my hosting](https://bcr-dev.daniel-ivanov.com/) and provide your feedback - especially if you enjoyed it (haters gonna hate!)
 - Host your own BCR server & gather community - that helps spread the word
 - Contribute to one or more BCR pillars & bring it to the next level
