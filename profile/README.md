@@ -46,6 +46,6 @@ I won't call the following "a roadmap" but rather a bag of ideas on futher devel
 ## What you can do
 
 I look for individuals who'd be interested to join me on BCR journey. Here's how you can help:
-- Just check it out on [my hosting](https://bcr-dev.daniel-ivanov.com/) and provide your feedback - especially if you enjoyed it (haters gonna hate!)
-- Host your own BCR server & gather community - that helps spread the word
-- Contribute to one or more BCR pillars & bring it to the next level
+- Just check it out on [my hosting](https://bcr.daniel-ivanov.com/) and provide your feedback - especially if you enjoyed it (haters gonna hate!)
+- Host your own [BCR server](https://github.com/bot-clash-reassembled/bcr-infra#multiple-compose-files-to-run-on-your-own-server) & gather community - that helps spread the word
+- Contribute to one or more [BCR pillars](https://github.com/orgs/bot-clash-reassembled/repositories) & bring it to the next level
